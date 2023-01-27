@@ -1,0 +1,16 @@
+PODS:
+  - AssociatedObjectAccessible (0.1.0)
+
+DEPENDENCIES:
+  - AssociatedObjectAccessible (from `../`)
+
+EXTERNAL SOURCES:
+  AssociatedObjectAccessible:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AssociatedObjectAccessible: 622bfbf765ea882feea135087c2338e0ec59f069
+
+PODFILE CHECKSUM: bf2abe41ea95d834d39d5269fc174c5410d37ddb
+
+COCOAPODS: 1.11.3
